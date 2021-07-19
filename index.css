@@ -57,12 +57,12 @@ body {
     padding: 0;
     border: 3px solid #000000;
     padding: 0.25em;
-    animation-name: deHoverBoi;
+    animation-name: de-hover-ani;
     animation-duration: 0.5s;
 }
 
 .btn-image:hover {
-    animation-name: hoverBoi;
+    animation-name: hover-ani;
     animation-duration: 0.5s;
     -webkit-filter: invert(100%) sepia(100%) saturate(25000%);
     -moz-filter: invert(100%) sepia(100%) saturate(25000%);
@@ -74,33 +74,31 @@ body {
     width: 6.5em;
 }
 
-@keyframes hoverBoi {
+@keyframes hover-ani {
     from {
-    height: 5em;
-    width: 5em;
+        height: 5em;
+        width: 5em;
     }
-
     to {
-    height: 6.5em;
-    width: 6.5em;
-    -webkit-filter: invert(100%) sepia(100%) saturate(25000%);
-    -moz-filter: invert(100%) sepia(100%) saturate(25000%);
-    -ms-filter: invert(100%) sepia(100%) saturate(25000%);
-    -o-filter: invert(100%) sepia(100%) saturate(25000%);
-    filter: invert(100%) sepia(100%) saturate(25000%);
+        height: 6.5em;
+        width: 6.5em;
+        -webkit-filter: invert(100%) sepia(100%) saturate(25000%);
+        -moz-filter: invert(100%) sepia(100%) saturate(25000%);
+        -ms-filter: invert(100%) sepia(100%) saturate(25000%);
+        -o-filter: invert(100%) sepia(100%) saturate(25000%);
+        filter: invert(100%) sepia(100%) saturate(25000%);
     }
 
 }
 
-@keyframes deHoverBoi {
+@keyframes de-hover-ani {
     from {
-    height: 6.5em;
-    width: 6.5em;
+        height: 6.5em;
+        width: 6.5em;
     }
-
     to {
-    height: 5em;
-    width: 5em;
+        height: 5em;
+        width: 5em;
     }
 }
 
