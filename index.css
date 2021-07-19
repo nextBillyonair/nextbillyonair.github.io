@@ -1,5 +1,5 @@
 body {
-    background-color: #000000;
+    background-color: #101820FF;
     font-family: "Lucida Console", monaco, monospace;
     overflow: hidden;
 }
@@ -15,7 +15,7 @@ body {
 }
 
 .main-body {
-    color: #fff000;
+    color: #F2AA4CFF;
     text-align: center;
     margin: auto;
     position: fixed;
