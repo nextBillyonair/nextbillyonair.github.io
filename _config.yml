@@ -1,0 +1,16 @@
+url: "https://nextbillyonair.github.io"
+baseurl: ""
+
+permalink: /404.html
+
+# Name of website/description
+title: "Bill Watson"
+description: "Welcome to my webpage!"
+
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Bill Watson
