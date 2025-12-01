@@ -23,7 +23,7 @@ repository               : "nextbillyonair/nextbillyonair.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_8371"
+  avatar           : "IMG_8371.png"
   name             : "William Watson"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
