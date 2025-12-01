@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "William Watson / AI Scientist"
+title                    : "William Watson / AI Researcher"
 title_separator          : "-"
 name                     : &name "William Watson"
-description              : &description "Bill Watson's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Bill Watson's Personal Website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://nextbillyonair.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "IMG_8371.png"
   name             : "William Watson"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hi I'm Bill! I am currently an AI Researcher at Millennium Management. I was fortunate to be advised by Professor Manuela Veloso at J.P.Morgan and Professor Scott Smith at Johns Hopkins!"
+  location         : "New York City"
+  employer         : "Johns Hopkins / Millennium Management"
   uri              : # URL
-  email            : # "none@example.org" 
+  email            : # "nextbillyonair@gmail.com" 
 
   # Academic websites
   academia         : # URL
